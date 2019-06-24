@@ -6,7 +6,8 @@
 2. [Project Tasks](#tasks)
 3. [Installation](#installation)
 4. [File Descriptions](#files)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Project Overview<a name="overview"></a>
 
@@ -61,6 +62,9 @@ The following packages also need to be installed for nltk:
     - user_item_matrix: pickle file containig user_item matrix
 4. html file
     - Recommendations_with_IBM.html: html version of the jupyter notebook(html file produced at the end of jupyter notebook)
+
+## Results <a name="results"></a>
+* [Project Notebook: Analysis of Data Science community growth from 2011-2018](https://nbviewer.jupyter.org/github/gauravansal/Recommendations-with-IBM/blob/master/Recommendations_with_IBM.ipynb) 
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
