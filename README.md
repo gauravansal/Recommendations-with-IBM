@@ -64,7 +64,7 @@ The following packages also need to be installed for nltk:
     - Recommendations_with_IBM.html: html version of the jupyter notebook(html file produced at the end of jupyter notebook)
 
 ## Results <a name="results"></a>
-* [Project Notebook: Analysis of Data Science community growth from 2011-2018](https://nbviewer.jupyter.org/github/gauravansal/Recommendations-with-IBM/blob/master/Recommendations_with_IBM.ipynb) 
+* [Project Notebook: Recommendations-with-IBM](https://nbviewer.jupyter.org/github/gauravansal/Recommendations-with-IBM/blob/master/Recommendations_with_IBM.ipynb) 
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
